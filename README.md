@@ -2,7 +2,7 @@
 
 <!--
 **anuragbansal009/anuragbansal009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 📫 How to reach me: <a href="http://steamcommunity.com/id/anuragbansal"><img src="<img src="https://image.flaticon.com/icons/png/512/3/3782.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anurag-bansal-1196291b7/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/anuragbansal009"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
