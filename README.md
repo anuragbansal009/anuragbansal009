@@ -8,6 +8,9 @@ Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://steamcommunity.com/id/anuragb
 <a href="https://www.linkedin.com/in/anurag-bansal-1196291b7/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/anuragbansal009"> <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reddit.com/user/anuragab"> <img src="https://img.icons8.com/color/48/000000/reddit.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bansal.anurag568@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/anuragbansal009"> <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/anuragbansal009/"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <h2><b>Programming Languages and Tools ⚙️ </b></h2> 
 <img align="left" alt="C" width="50px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
