@@ -18,7 +18,7 @@ Reach me: <a href="http://steamcommunity.com/id/anuragbansal"><img src="https://
 <img align="left" alt="Blender" width="50px" src="https://img.icons8.com/color/48/000000/blender-3d.png" />
 <img align="left" alt="Photoshop" width="50px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
 <img align="left" alt="Premiere Pro" width="50px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/>
-<img align="left" alt="Flutter" width="50px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<!-- <img align="left" alt="Flutter" width="50px" src="https://img.icons8.com/color/48/000000/flutter.png"/> -->
 <img align="left" alt="AutoCAD" width="50px" src="https://img.icons8.com/color/48/000000/autodesk-autocad.png"/>
 <br />
 <h2></h2>
