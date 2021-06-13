@@ -25,7 +25,6 @@ Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://steamcommunity.com/id/anuragb
 </section>
 <br />
 <br />
-<br />
 
 
 <h2><b>Tools ⚙️ </b></h2> 
