@@ -21,7 +21,8 @@ Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://steamcommunity.com/id/anuragb
 <img align="left" alt="CSS3" width="50px" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/dart.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/dart.png" />
+<img align="left" alt="JavaScript" width="50px" src="https://img.icons8.com/offices/48/000000/php-logo.png" />
 </section>
 <br />
 <br />
