@@ -10,7 +10,7 @@
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://steamcommunity.com/id/anuragbansal">
   <img src="https://img.icons8.com/fluent/48/000000/steam.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/anuragbansal009">
-  <img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="25px;">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reddit.com/user/anuragab">
   <img src="https://img.icons8.com/color/48/000000/reddit.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/anuragbansal009">
