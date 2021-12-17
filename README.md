@@ -1,20 +1,12 @@
 ### Hi there 👋
 <!--
 **anuragbansal009/anuragbansal009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/919814502568">
-  <img src="https://img.icons8.com/color/16/000000/whatsapp--v1.png" width="25px;">
-</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-bansal-1196291b7/">
+--> Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-bansal-1196291b7/">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bansal.anurag568@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width="25px;">
-</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://steamcommunity.com/id/anuragbansal">
-  <img src="https://img.icons8.com/fluent/48/000000/steam.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/anuragbansal009">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="25px;">
-</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://reddit.com/user/anuragab">
-  <img src="https://img.icons8.com/color/48/000000/reddit.png" width="25px;">
-</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/anuragbansal009">
-  <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/anuragbansal009/">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <h2>
