@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!--
 **anuragbansal009/anuragbansal009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-bansal-1196291b7/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;">
+--> Reach me: &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/anuragbansal009/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:bansal.anurag568@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail--v2.png" width="25px;">
 </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/anuragbansal009">
