@@ -51,7 +51,7 @@
   </p></section>
 <br />
 
-<h2>
+<!-- <h2>
   <b>ML/DL ⚙️ </b>
 </h2>
 <section><p align = "center">
@@ -65,7 +65,7 @@
   <img style="float: left; margin-right: 10px;" alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
   <img style="float: left; margin-right: 10px;" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   </p></section>
-<br />
+<br /> -->
 
 <h2>
   <b>Tools ⚙️ </b>
