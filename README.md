@@ -17,17 +17,14 @@
   <img style="float: left; margin-right: 10px;" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="MySQL" src="https://img.shields.io/badge/mysql-%23161616.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img style="float: left; margin-right: 10px;" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img style="float: left; margin-right: 10px;" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  
+  <img style="float: left; margin-right: 10px;" alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+
   </p></section>
 <br />
 <h2>
@@ -47,6 +44,8 @@
   <img style="float: left; margin-right: 10px;" alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img style="float: left; margin-right: 10px;" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+  <img style="float: left; margin-right: 10px;" alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img style="float: left; margin-right: 10px;" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 
   </p></section>
 <br />
@@ -75,20 +74,20 @@
   <img style="float: left; margin-right: 10px;" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img style="float: left; margin-right: 10px;" alt="PHPStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
   <img style="float: left; margin-right: 10px;" alt="SubLime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img style="float: left; margin-right: 10px;" alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img style="float: left; margin-right: 10px;" alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img style="float: left; margin-right: 10px;" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img style="float: left; margin-right: 10px;" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img style="float: left; margin-right: 10px;" alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img style="float: left; margin-right: 10px;" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img style="float: left; margin-right: 10px;" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
   </p></section>
 <br />
 <h2></h2><p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=anuragbansal009&show_icons=true&theme=algolia" /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbansal009&layout=compact&theme=radical" /></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anuragbansal009&show_icons=true&theme=algolia" /><br /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbansal009&layout=compact&theme=radical&hide=jupyter%20notebook,html,css,scss" /></p>
